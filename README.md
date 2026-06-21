@@ -1,5 +1,8 @@
 # PortSwigger Web Security Academy — Technical Writeups
 
+**Name:** Ankur Kalita
+**Roll No:** 23BCS10185
+
 Technical security writeups for PortSwigger Web Security Academy labs, completed as part of the **Application Security** course.
 
 Each writeup follows a standard structure: **Title of Issue · Description · Steps to Exploit · Proof of Concept · Impact · Mitigation / Remediation · CVSS Score · CVSS Justification**.
